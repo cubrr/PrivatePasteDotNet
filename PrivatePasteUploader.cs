@@ -46,13 +46,13 @@ namespace PrivatePasteDotNet
                 { "w",       7 * 24 * 3600 },
                 { "M",       30 * 24 * 3600 },
                 { "y",       365 * 24 * 3600 },
-	            { "seconds", 1 },
-	            { "minutes", 60 },
-	            { "hours",   3600 },
-	            { "days",    24 * 3600 },
-	            { "weeks",   7 * 24 * 3600 },
-	            { "months",  30 * 24 * 3600 },
-	            { "years",   365 * 24 * 3600 }
+                { "seconds", 1 },
+                { "minutes", 60 },
+                { "hours",   3600 },
+                { "days",    24 * 3600 },
+                { "weeks",   7 * 24 * 3600 },
+                { "months",  30 * 24 * 3600 },
+                { "years",   365 * 24 * 3600 }
             };
         }
 
@@ -77,14 +77,14 @@ namespace PrivatePasteDotNet
             using (var client = new HttpClient(handler))
             {
                 var values = new List<KeyValuePair<string, string>>
-		        {
-			        new KeyValuePair<string, string>( "paste_content", content ),
-			        new KeyValuePair<string, string>( "formatting", Formattings.Contains(formatting) ? formatting : "No Formatting" ),
-			        new KeyValuePair<string, string>( "line_numbers", lineNumbers ? "on" : "off" ),
-			        new KeyValuePair<string, string>( "expire", ParseDuration(expires).ToString() ),
-			        new KeyValuePair<string, string>( "secure_paste", !String.IsNullOrEmpty(password) ? "on" : "off" ),
-			        new KeyValuePair<string, string>( "secure_paste_key", password ?? "")
-		        };
+                {
+                    new KeyValuePair<string, string>( "paste_content", content ),
+                    new KeyValuePair<string, string>( "formatting", Formattings.Contains(formatting) ? formatting : "No Formatting" ),
+                    new KeyValuePair<string, string>( "line_numbers", lineNumbers ? "on" : "off" ),
+                    new KeyValuePair<string, string>( "expire", ParseDuration(expires).ToString() ),
+                    new KeyValuePair<string, string>( "secure_paste", !String.IsNullOrEmpty(password) ? "on" : "off" ),
+                    new KeyValuePair<string, string>( "secure_paste_key", password ?? "")
+                };
 #if DEBUG
                 Debug.WriteLine("Creating paste with the following options:");
                 Debug.Indent();

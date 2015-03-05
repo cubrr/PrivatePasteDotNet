@@ -29,7 +29,6 @@ namespace PrivatePasteDotNet
         /// </summary>
         /// <param name="response"></param>
         /// <param name="host"></param>
-        /// <param name="dispose">If true, the <paramref name="response"/> will be disposed after initialization.</param>
         public PrivatePasteResponse(HttpResponseMessage response, string host)
         {
             string pasteId = response.Headers.Location.ToString();
