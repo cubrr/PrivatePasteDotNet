@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="4b169147-0ebd-4417-8ed5-ebf0650ed5c1" Title="Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="2b9b1ab5-951b-465a-9a23-2299a4c9c8b7" Title="PrivatePasteDotNet" Url="html/N_PrivatePasteDotNet.htm">
+      <HelpTOCNode Id="9fb9e17f-34ca-45df-8efb-3d3d0a21f67b" Title="PrivatePasteResponse Class" Url="html/T_PrivatePasteDotNet_PrivatePasteResponse.htm">
+        <HelpTOCNode Title="PrivatePasteResponse Constructor " Url="html/M_PrivatePasteDotNet_PrivatePasteResponse__ctor.htm" />
+        <HelpTOCNode Id="01903bb3-cde2-4e66-85c0-dce8dff9e01e" Title="PrivatePasteResponse Methods" Url="html/Methods_T_PrivatePasteDotNet_PrivatePasteResponse.htm">
+          <HelpTOCNode Id="2d57280c-7c11-4065-a6b6-f3282b5f1652" Title="Equals Method " Url="html/Overload_PrivatePasteDotNet_PrivatePasteResponse_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_PrivatePasteDotNet_PrivatePasteResponse_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (PrivatePasteResponse)" Url="html/M_PrivatePasteDotNet_PrivatePasteResponse_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_PrivatePasteDotNet_PrivatePasteResponse_GetHashCode.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="694c16c4-5deb-4d75-a870-46ab1c760560" Title="PrivatePasteResponse Properties" Url="html/Properties_T_PrivatePasteDotNet_PrivatePasteResponse.htm">
+          <HelpTOCNode Title="PasteId Property " Url="html/P_PrivatePasteDotNet_PrivatePasteResponse_PasteId.htm" />
+          <HelpTOCNode Title="PasteUrl Property " Url="html/P_PrivatePasteDotNet_PrivatePasteResponse_PasteUrl.htm" />
+          <HelpTOCNode Title="StatusCode Property " Url="html/P_PrivatePasteDotNet_PrivatePasteResponse_StatusCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e3718fae-989a-4153-833c-1a217d96d75c" Title="PrivatePasteUploader Class" Url="html/T_PrivatePasteDotNet_PrivatePasteUploader.htm">
+        <HelpTOCNode Id="b4947173-ed32-4265-b338-7a0bba6579cc" Title="PrivatePasteUploader Methods" Url="html/Methods_T_PrivatePasteDotNet_PrivatePasteUploader.htm">
+          <HelpTOCNode Title="CreatePaste Method " Url="html/M_PrivatePasteDotNet_PrivatePasteUploader_CreatePaste.htm" />
+          <HelpTOCNode Title="ParseDuration Method " Url="html/M_PrivatePasteDotNet_PrivatePasteUploader_ParseDuration.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b030ee67-a53c-48ad-990e-b11f79ae0c3e" Title="PrivatePasteUploader Properties" Url="html/Properties_T_PrivatePasteDotNet_PrivatePasteUploader.htm">
+          <HelpTOCNode Title="ExpirationModifiers Property " Url="html/P_PrivatePasteDotNet_PrivatePasteUploader_ExpirationModifiers.htm" />
+          <HelpTOCNode Title="Formattings Property " Url="html/P_PrivatePasteDotNet_PrivatePasteUploader_Formattings.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

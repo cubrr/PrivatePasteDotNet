@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="CreatePaste method" Url="html/M_PrivatePasteDotNet_PrivatePasteUploader_CreatePaste.htm" />
+  <HelpKINode Title="Equals method" Url="html/Overload_PrivatePasteDotNet_PrivatePasteResponse_Equals.htm" />
+  <HelpKINode Title="ExpirationModifiers property" Url="html/P_PrivatePasteDotNet_PrivatePasteUploader_ExpirationModifiers.htm" />
+  <HelpKINode Title="Formattings property" Url="html/P_PrivatePasteDotNet_PrivatePasteUploader_Formattings.htm" />
+  <HelpKINode Title="GetHashCode method" Url="html/M_PrivatePasteDotNet_PrivatePasteResponse_GetHashCode.htm" />
+  <HelpKINode Title="ParseDuration method" Url="html/M_PrivatePasteDotNet_PrivatePasteUploader_ParseDuration.htm" />
+  <HelpKINode Title="PasteId property" Url="html/P_PrivatePasteDotNet_PrivatePasteResponse_PasteId.htm" />
+  <HelpKINode Title="PasteUrl property" Url="html/P_PrivatePasteDotNet_PrivatePasteResponse_PasteUrl.htm" />
+  <HelpKINode Title="PrivatePasteDotNet namespace" Url="html/N_PrivatePasteDotNet.htm" />
+  <HelpKINode Title="PrivatePasteDotNet.PrivatePasteResponse class" Url="html/T_PrivatePasteDotNet_PrivatePasteResponse.htm" />
+  <HelpKINode Title="PrivatePasteDotNet.PrivatePasteUploader class" Url="html/T_PrivatePasteDotNet_PrivatePasteUploader.htm" />
+  <HelpKINode Title="PrivatePasteResponse class">
+    <HelpKINode Title="PrivatePasteResponse Class" Url="html/T_PrivatePasteDotNet_PrivatePasteResponse.htm" />
+    <HelpKINode Title="about PrivatePasteResponse class" Url="html/T_PrivatePasteDotNet_PrivatePasteResponse.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PrivatePasteDotNet_PrivatePasteResponse__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PrivatePasteDotNet_PrivatePasteResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PrivatePasteDotNet_PrivatePasteResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PrivatePasteResponse.Equals method" Url="html/Overload_PrivatePasteDotNet_PrivatePasteResponse_Equals.htm" />
+  <HelpKINode Title="PrivatePasteResponse.GetHashCode method" Url="html/M_PrivatePasteDotNet_PrivatePasteResponse_GetHashCode.htm" />
+  <HelpKINode Title="PrivatePasteResponse.PasteId property" Url="html/P_PrivatePasteDotNet_PrivatePasteResponse_PasteId.htm" />
+  <HelpKINode Title="PrivatePasteResponse.PasteUrl property" Url="html/P_PrivatePasteDotNet_PrivatePasteResponse_PasteUrl.htm" />
+  <HelpKINode Title="PrivatePasteResponse.PrivatePasteResponse constructor" Url="html/M_PrivatePasteDotNet_PrivatePasteResponse__ctor.htm" />
+  <HelpKINode Title="PrivatePasteResponse.StatusCode property" Url="html/P_PrivatePasteDotNet_PrivatePasteResponse_StatusCode.htm" />
+  <HelpKINode Title="PrivatePasteUploader class">
+    <HelpKINode Title="PrivatePasteUploader Class" Url="html/T_PrivatePasteDotNet_PrivatePasteUploader.htm" />
+    <HelpKINode Title="about PrivatePasteUploader class" Url="html/T_PrivatePasteDotNet_PrivatePasteUploader.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PrivatePasteDotNet_PrivatePasteUploader.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PrivatePasteDotNet_PrivatePasteUploader.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PrivatePasteUploader.CreatePaste method" Url="html/M_PrivatePasteDotNet_PrivatePasteUploader_CreatePaste.htm" />
+  <HelpKINode Title="PrivatePasteUploader.ExpirationModifiers property" Url="html/P_PrivatePasteDotNet_PrivatePasteUploader_ExpirationModifiers.htm" />
+  <HelpKINode Title="PrivatePasteUploader.Formattings property" Url="html/P_PrivatePasteDotNet_PrivatePasteUploader_Formattings.htm" />
+  <HelpKINode Title="PrivatePasteUploader.ParseDuration method" Url="html/M_PrivatePasteDotNet_PrivatePasteUploader_ParseDuration.htm" />
+  <HelpKINode Title="StatusCode property" Url="html/P_PrivatePasteDotNet_PrivatePasteResponse_StatusCode.htm" />
+</HelpKI>
