@@ -7,6 +7,7 @@ See https://cubrr.github.io/PrivatePasteDotNet
 ## Usage
 
 ``` c#
+using System.Windows.Forms;
 using PrivatePasteDotNet;
 
 public static void Main(string[] args)
@@ -17,7 +18,7 @@ public static void Main(string[] args)
 private static async void Test()
 {
     PrivatePasteResponse response = await PrivatePasteUploader.CreatePaste("Testing PrivatePasteUploader .NET", "C#", true, "60 m", "toastbox");
-    System.Windows.Forms.MessageBox.Show(response.PasteUrl);
+    MessageBox.Show(response.PasteUrl);
 }
 
 ```
